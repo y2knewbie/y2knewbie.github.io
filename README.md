@@ -7,5 +7,5 @@ I am greatly thankful to those who provided this incredible opportunity.
 
 Here is the link:
 
-Website Tutorial: https://www.youtube.com/watch?v=NQP89ish9t8
+Website Tutorial: https://www.youtube.com/watch?v=NQP89ish9t8<br />
 Free Templates: templated.co

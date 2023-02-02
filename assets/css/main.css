@@ -1269,7 +1269,7 @@
 			-webkit-transform: translateX(50%) translateY(50%);
 			-ms-transform: translateX(50%) translateY(50%);
 			transform: translateX(50%) translateY(50%);
-			position: absolute;
+			position: fixed;
 			bottom: 50%;
 			right: 50%;
 			width: auto;
@@ -1277,6 +1277,8 @@
 			min-width: 100%;
 			min-height: 100%;
 			overflow: hidden;
+			background-size: cover;
+			object-fit: cover;
 		}
 
 		#banner:before {

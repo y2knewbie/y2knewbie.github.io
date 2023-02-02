@@ -1269,7 +1269,7 @@
 			-webkit-transform: translateX(50%) translateY(50%);
 			-ms-transform: translateX(50%) translateY(50%);
 			transform: translateX(50%) translateY(50%);
-			position: fixed;
+			position: absolute;
 			bottom: 50%;
 			right: 50%;
 			width: auto;
